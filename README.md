@@ -2,9 +2,10 @@
 
 I'm Ali Furkan, a Junior Backend Developer and Cloud Architecht
 
-**Favored Technologies**
-- Node.js
-- MongoDB
-- PostgreSQL
-- Docker
-- AWS
+**:star:Favored Technologies:star:**
+- Node.js ⚙️
+- Jest 🧪
+- MongoDB 📁
+- PostgreSQL 📁
+- Docker :package:
+- AWS :cloud:
