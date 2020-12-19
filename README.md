@@ -11,5 +11,5 @@ I'm Ali Furkan, a Junior Backend Developer and Cloud Architecht
 - AWS :cloud:
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fdemirbas7)](https://github.com/fdemirbas7/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fdemirbas7&?count_private=true)](https://github.com/fdemirbas7/github-readme-stats)
 
