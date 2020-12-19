@@ -1,4 +1,10 @@
 ### Hello.
 
-You're welcome to take a look at my public code.
+I'm Ali Furkan, a Junior Backend Developer and Cloud Architecht
 
+**Favored Technologies**
+- Node.js
+- MongoDB
+- PostgreSQL
+- Docker
+- AWS
