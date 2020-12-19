@@ -1,6 +1,6 @@
 ### Hello.
 
-I'm Ali Furkan, a Junior Backend Developer and Cloud Architecht
+I'm Ali Furkan, a Junior Backend Developer and Cloud Architect
 
 **:star:Favored Technologies:star:**
 - Node.js ⚙️
