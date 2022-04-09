@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afdemirbas" alt="afdemirbas" /></a> </p>
 
-- 📫 How to reach me **furkan.demirbas@usemagnetiq.com**
+- 📫 How to reach me **furkan.demirbas@trendyol.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
